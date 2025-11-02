@@ -1,13 +1,14 @@
 {
   "name": "desktop-app-in-python",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "",
   "scripts": {
     "dev": "python helpers/builder.py -d",
     "build": "python helpers/builder.py -r",
     "publish": "python helpers/builder.py -p"
   },
-  "github-repository": "",
+  "github-repository": "https://github.com/mahfuz0712/app-in-python",
   "author": "Mohammad Mahfuz Rahman",
   "license": "ISC"
 }
+
